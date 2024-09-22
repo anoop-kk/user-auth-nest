@@ -14,7 +14,6 @@
 - [ ] Change 2: Explanation of what was changed
 - [ ] ...
 
-
 ## Screenshots / GIFs (if applicable)
 
 <!-- Attach screenshots or GIFs to showcase the change, if applicable. -->
